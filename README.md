@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Julio Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a> "Y conocerán la verdad, y la verdad los hará libres." - Juan 8:32 (NTV)</a>
 </p>
