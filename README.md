@@ -3,7 +3,6 @@
 <!--  -->
 <p align="center">
   <a> "And you will know the truth, and the truth will set you free." - John 8:32 (NTV)</a>
-  <a> "Y conocerán la verdad, y la verdad los hará libres." - Juan 8:32 (NTV)</a>
 </p>
 
 
