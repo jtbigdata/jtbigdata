@@ -17,12 +17,17 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
+-I am a data analyst and a Doctor in Physics.
+- Personal Linkeding [link](https://www.linkedin.com/in/julio-c%C3%A9sar-torres-pati%C3%B1o-78492696/)
+-I am a person who enjoys spending time with family. 
+-I have Christian values
+because I am an Evangelical by religion.
+-I possess the versatility to adapt to
+multicultural environments. 
+-I really enjoy exercising; currently, I practice crossfit. I
+am a lover of reading and watching movies. 
+-I also love listening to music and
+playing it; I am a bassist and I am also learning to play the guitar.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
