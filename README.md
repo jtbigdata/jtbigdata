@@ -7,28 +7,32 @@
 
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+        <tr>
+            <td>I am a data analyst and a Doctor in Physics.</td>
+        </tr>
+        <tr>
+            <td>Personal LinkedIn <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-torres-pati%C3%B1o-78492696/">link</a></td>
+        </tr>
+        <tr>
+            <td>I am a person who enjoys spending time with family.</td>
+        </tr>
+        <tr>
+            <td>I have Christian values because I am an Evangelical by religion.</td>
+        </tr>
+        <tr>
+            <td>I possess the versatility to adapt to multicultural environments.</td>
+        </tr>
+        <tr>
+            <td>I really enjoy exercising; currently, I practice crossfit. I am a lover of reading and watching movies.</td>
+        </tr>
+        <tr>
+            <td>I also love listening to music and playing it; I am a bassist and I am also learning to play the guitar.</td>
+        </tr>
 
 <br>
-
--I am a data analyst and a Doctor in Physics.
-- Personal Linkeding [link](https://www.linkedin.com/in/julio-c%C3%A9sar-torres-pati%C3%B1o-78492696/)
--I am a person who enjoys spending time with family. 
--I have Christian values
-because I am an Evangelical by religion.
--I possess the versatility to adapt to
-multicultural environments. 
--I really enjoy exercising; currently, I practice crossfit. I
-am a lover of reading and watching movies. 
--I also love listening to music and
-playing it; I am a bassist and I am also learning to play the guitar.
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
