@@ -18,21 +18,6 @@
         <tr>
             <td>Personal LinkedIn <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-torres-pati%C3%B1o-78492696/">link</a></td>
         </tr>
-        <tr>
-            <td>I am a person who enjoys spending time with family.</td>
-        </tr>
-        <tr>
-            <td>I have Christian values because I am an Evangelical by religion.</td>
-        </tr>
-        <tr>
-            <td>I possess the versatility to adapt to multicultural environments.</td>
-        </tr>
-        <tr>
-            <td>I really enjoy exercising; currently, I practice crossfit. I am a lover of reading and watching movies.</td>
-        </tr>
-        <tr>
-            <td>I also love listening to music and playing it; I am a bassist and I am also learning to play the guitar.</td>
-        </tr>
     </table>
 
 <br>
